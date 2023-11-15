@@ -7,7 +7,7 @@ To write a program to predict the profit of a city using the linear regression m
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
+## Algorithm:
 Step 1. Use the standard libraries such as numpy, pandas, matplotlib.pyplot in python for the Gradient Descent.
 Step 2. Upload the dataset conditions and check for any null value in the values provided using the .isnull() function.
 Step3. Declare the default values such as n, m, c, L for the implementation of linear regression using gradient descent.
